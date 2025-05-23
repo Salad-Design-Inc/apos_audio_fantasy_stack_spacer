@@ -6,9 +6,10 @@ There are multiple variations of the spacers. We currently have the cantilever a
 These are completely open source and free to use as you'd like. 
 
 Cantilever Clip Renders:
-![Cantilever End Clip Gremlin Back View](https://github.com/user-attachments/assets/9b31d586-7ff2-49f9-a5e7-c9cacd33f6a5)
-![Cantilever End Clip Gremlin Angle View](https://github.com/user-attachments/assets/af5a934a-1034-4869-906b-625b9d901f65)
-![Cantilever End Clip Gremlin Front View](https://github.com/user-attachments/assets/77528083-3bb2-45bb-b46a-a16b1e781dbb)
+![Cantilever End Clip Gremlin Back View](https://github.com/user-attachments/assets/072fc469-c765-415d-b931-4b12eac56783)
+![Cantilever End Clip Gremlin Angle View](https://github.com/user-attachments/assets/352fa928-e789-44e9-974e-8eb2b933a461)
+![Cantilever End Clip Gremlin Front View](https://github.com/user-attachments/assets/f5c99690-3d18-474a-a7f8-35251807cf0c)
+
 
 Box Clip Renders:
 Coming Soon.
